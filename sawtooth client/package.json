@@ -16,7 +16,7 @@
         "@types/jsonwebtoken": "^8.3.2",
         "@types/request": "^2.48.1",
         "@types/secp256k1": "^3.5.0",
-        "axios": "^0.19.0",
+        "axios": "^0.21.1",
         "cbor": "^4.0.0",
         "dotenv": "^5.0.1",
         "jsonwebtoken": "^8.5.1",
