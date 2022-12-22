@@ -19,7 +19,7 @@
         "axios": "^0.19.0",
         "cbor": "^4.0.0",
         "dotenv": "^5.0.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "lodash": "^4.17.11",
         "nodemon": "^1.19.1",
         "nodenv": "^0.1.0",
