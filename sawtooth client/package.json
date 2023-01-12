@@ -32,7 +32,7 @@
         "zeromq": "^4.2.1"
     },
     "devDependencies": {
-        "mocha": "^3.2.0",
+        "mocha": "^10.2.0",
         "standard": "^8.6.0"
     }
 }
